@@ -12,6 +12,8 @@ account login details for admin page is 'admin' for both fields
 #![Screenshot (79)](https://github.com/RYANFRANKLIN237/Job-matching-platform/assets/95378076/8ea33934-1b1c-4335-be5c-752203aedd0a)
 #![Screenshot (80)](https://github.com/RYANFRANKLIN237/Job-matching-platform/assets/95378076/32ea547b-be72-4d89-bae8-fc30df42c707)
 
+-  👯 See also : My App on Playstore, Explore: [InstaKnow](https://play.google.com/store/apps/details?id=com.savanna.instaknow)
+
 
 
 
